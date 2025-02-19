@@ -1,5 +1,5 @@
-# Hi there, I'm Petr Afonin 👋
-## I am applying for the position of Data Analyst
+## Hi there, I'm Petr Afonin 👋
+### I am applying for the position of Data Analyst
 <!--
 **GSW2012/GSW2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
