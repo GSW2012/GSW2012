@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Petr Afonin 👋
 
 <!--
 **GSW2012/GSW2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
